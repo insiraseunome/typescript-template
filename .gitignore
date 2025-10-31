@@ -5,4 +5,4 @@
 *.js.map
 *.ts
 *.d.ts
-.envadd
+.env
