@@ -5,6 +5,7 @@ Minimal template for TypeScript development with StandardJS formatting.
 ## Setup
 
 npm install
+
 npm run lint
 
 Notes
