@@ -1,0 +1,8 @@
+/node_modules
+/dist
+/typescript-template
+*.js
+*.js.map
+*.ts
+*.d.ts
+.envadd
