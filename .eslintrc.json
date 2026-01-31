@@ -1,0 +1,15 @@
+{
+  "parser": "@typescript-eslint/parser",
+  "extends": [
+    "eslint:recommended",
+    "plugin:@typescript-eslint/recommended",
+    "prettier"
+  ],
+  "plugins": ["@typescript-eslint"],
+  "rules": {
+    "quotes": ["error", "single"],
+    "semi": ["error", "never"],
+    "indent": ["error", 2],
+    "no-unused-vars": "warn"
+  }
+}
