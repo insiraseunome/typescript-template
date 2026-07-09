@@ -1,4 +1,5 @@
 # TypeScript Starter Template
+[![CI](https://github.com/el-backendev/typescript-template/actions/workflows/ci.yml/badge.svg)](https://github.com/el-backendev/typescript-template/actions/workflows/ci.yml)
 
 Minimal template for TypeScript development with ESLint + Prettier formatting.
 
